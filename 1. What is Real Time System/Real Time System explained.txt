@@ -1,13 +1,13 @@
-//A real-time system is any information processing system which has to respond
-to externally generated input stimuli within a finite and specified period.
+//INTRODUCTION TO REAL TIME SYSTEM
+
+//A real-time system is any information processing system which has to respond to externally generated input stimuli within a finite and specified period.
 //In other words, slow response may lead to risk severe consequences
 //A simple example portrayed: A car might need faster for its airbag to comes out when severe accident happened.
 
 //the correctness depends not only on the logical result 
 //but also the time it was delivered failure to respond is as bad as the wrong response!
 
-/*Pattern or Type of System*/
-/*
+/*PATTERN OR TYPE OF REAL TIME SYSTEM*/
 1. Hard Real Time:
 Systems where it is absolutely imperative that responses occur within the required deadline.
 E.g. Flight control systems.
@@ -18,13 +18,10 @@ E.g. DAQ(Data acquisition system)
 
 3. Firm Real Time:
 Systems which are soft real-time but in which there is no benefit from late delivery of service.
-*/
 
 /*COMPONENTS FOR REAL TIME OPERATING SYSTEM*/
-/*
 1. RTOS (Real Time Operating System)
 2. Development Tools
 3. I/O and Drivers
 4. Rugged Hardware (Optional)
 5. Watchdog timer (Optional)
-*/
