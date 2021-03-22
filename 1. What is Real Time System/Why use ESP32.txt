@@ -1,0 +1,5 @@
+ESP32 is an IOT microcontroller.
+
+It runs a modified version of free RTOS. 
+
+Thus, in this class, we will be using this microcontroller to experience the real time system application.
