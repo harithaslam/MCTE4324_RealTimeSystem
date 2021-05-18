@@ -1,3 +1,0 @@
-This is The Challenge Code learned from Digi-Key
-
-In this FreeRTOS code, it implements the idea of
