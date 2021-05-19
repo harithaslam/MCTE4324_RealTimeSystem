@@ -8,9 +8,7 @@
  * updates the blink delay to that number. Whenever the LED blinks 100 times,
  * the second task sends a message to the first task to be printed.
  * 
- * Date: January 18, 2021
- * Author: credit to Shawn Hymel
- * License: 0BSD
+ * Date: 26th April 2021
  */
 
 // Use only core 1 for demo purposes
