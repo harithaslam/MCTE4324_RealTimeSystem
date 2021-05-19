@@ -4,11 +4,9 @@
  * Increment a shared global variable.
  * 
  * Date: 5th May 2021
- * Author: Redo from Shawn Hymel
- * 
  */
 
-// likely nee this on vanilla FreeRTOS
+// Need to include the library below on vanilla FreeRTOS
 //#include semphr.h
 
 //Use only core 1 for demo
