@@ -7,3 +7,6 @@ Upon testing, I noticed that the Lora sender/transmitter keep sending the packag
 
 Then, during the second test, where I hold the antenna upwards with my hand, I got more result with Lora receiving the hello message thrice but with unwanted message string written. After that, I put down the antenna down and the receiver stop receiving even when I hold back the antenna upwards later on. 
 //See the 2nd test.jpg file.
+
+
+//Note that: In the setup picture, the potentiometer does not been used for this purpose. 
